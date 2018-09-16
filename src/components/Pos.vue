@@ -1,5 +1,6 @@
 <template>
   <div class="pos">
+    <i class="icon iconfont icon-dianpu"></i>
     Hello Awesome Pos Demo.
   </div>
 </template>
