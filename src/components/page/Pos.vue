@@ -22,15 +22,13 @@
               <el-button type="success">挂单</el-button>
             </div>
           </el-tab-pane>
-          <el-tab-pane label="挂单">
-            挂单
-          </el-tab-pane>
           <el-tab-pane label="外卖">
-            外卖
           </el-tab-pane>
         </el-tabs>
       </el-col>
-      <el-col>我是产品栏</el-col>
+      <el-col :span=17>
+        
+      </el-col>
     </el-row>
   </div>
 </template>
